@@ -12,7 +12,7 @@
 	</a>
 </p>
 
-###🧰Languages and Tools:
+### 🧰Languages and Tools:
 <p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,py,cpp,django,aws,vscode,discord,figma,git,postgres,react,java&perline=11" />
