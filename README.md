@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React, Django, PostgreSQL**
 
 - ⚡ Fun fact **I love running, reading, and learning**
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/adrian0239" target="blank">
