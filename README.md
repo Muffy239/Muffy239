@@ -4,9 +4,13 @@
 </h1>
 <h3 align="center">Powered by a relentless passion for programming, making each challenge an opportunity for growth.</h3>
 
+</br>
+
 - 🌱 I’m currently learning **React, Django, PostgreSQL**
 
 - ⚡ Fun fact **I love running, reading, and learning**
+
+</br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adrian0239" target="_blank">
