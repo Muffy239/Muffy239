@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muffy239.Muffy239"/>
 
-<h1 align="left>
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾+I'm+Adrian+Garcia;"  />	
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adrian+Garcia!;" />
 </h1>
+
 <h3 align="left">Embarking on a journey from early experiments with Scratch to mastering the intricacies of full-stack development, I've transformed my passion for programming into a relentless pursuit of innovation and problem-solving. </h3>
 
 - 🌱 I’m currently learning **React, Django, PostgreSQL**
