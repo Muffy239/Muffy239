@@ -1,5 +1,5 @@
 <h1 align="left">👨🏽‍💼 Adrian Garcia</h1>
-<h3 align="center">Embarking on a journey from early experiments with Scratch to mastering the intricacies of full-stack development, I've transformed my passion for programming into a relentless pursuit of innovation and problem-solving. </h3>
+<h3 align="left">Embarking on a journey from early experiments with Scratch to mastering the intricacies of full-stack development, I've transformed my passion for programming into a relentless pursuit of innovation and problem-solving. </h3>
 
 - 🌱 I’m currently learning **React, Django, PostgreSQL**
 
