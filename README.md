@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muffy239.Muffy239"/>
+
 <h1 align="left">👨🏽‍💼 Adrian Garcia</h1>
 <h3 align="left">Embarking on a journey from early experiments with Scratch to mastering the intricacies of full-stack development, I've transformed my passion for programming into a relentless pursuit of innovation and problem-solving. </h3>
 
