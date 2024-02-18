@@ -21,7 +21,7 @@
 
 #
 <details>
-	<summary><h3>Adrian's Coding Joruney:</h3></summary>
+	<summary><h3>👨🏽‍💻Adrian's Coding Joruney:</h3></summary>
 From the moment I crafted my first script in Scratch during a high school web development class, my fascination with technology was transformed into a deep-seated passion for programming. It was the final project of that class, a venture into the foundational realms of HTML and CSS, that truly cemented my love for coding. The relentless challenges and the satisfaction of overcoming what seemed like endless errors have become a driving force for me, fueling my desire to solve the next problem with creativity and determination.
 
 This passion didn't just stay within the confines of the classroom; it led me to take on additional projects, even completing a final project on behalf of a friend. My dedication to mastering software development took me on an unconventional path through military service, which provided me with the means to further pursue my dreams. Post-service, I seized the opportunity to attend a programming bootcamp, diving headfirst into the intricate world of full-stack development.
