@@ -7,7 +7,7 @@
 ##
 ### 🧰 Languages and Tools:
 <p align="left">
-	<a href="https://skillicons.dev">
+	<a href="">
 		<img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,py,cpp,django,aws,vscode,discord,figma,git,postgres,react,java&perline=11" />
 	</a>
 </p>
