@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muffy239.Muffy239"/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adrian+Garcia!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=35&duration=3000&pause=1000&color=73A5DF&random=false&width=435&lines=Hello++There!++++++%F0%9F%91%8B%F0%9F%8F%BE;I'm+Adrian+Garcia+" />
+
 </h1>
 <h3 align="center">Powered by a relentless passion for programming, making each challenge an opportunity for growth.</h3>
 
@@ -52,4 +53,4 @@ My journey in programming began with a simple Scratch script during a high schoo
 
 <hr/>
 <p align="left">GitHub Stats </p>
-<a href="http://www.github.com/Muffy239"><img src="https://github-readme-stats.vercel.app/api?username=Muffy239&show_icons=true&hide=contribs&count_private=true&title_color=D5DEEF&text_color=D5DEEF&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muffy239's GitHub stats" /></a>
+<a href="http://www.github.com/Muffy239"><img src="https://github-readme-stats.vercel.app/api?username=Muffy239&show_icons=true&hide=contribs&count_private=true&title_color=C8CDC9FF&text_color=73A5DFFF&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muffy239's GitHub stats" /></a>
