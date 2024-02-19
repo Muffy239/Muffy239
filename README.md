@@ -30,12 +30,12 @@ Adrian = {
         "favorite_game" : "Counter Strike 2",
         "favorite_movies" : ["End of Watch", "The Secret Life of Walter Mitty"],
         "favorite_sounds" : ["Change - Deftones", "The Scientist - Coldplay"],
+	"visited countries" : ["Switzerland", "Germany", "Canada", "South Korea", "Spain", "Italy", "Bulgaria", "Portugal", "Netherlands", "France" ],
     },
     "professional_info" : {
         "code_languages" : [Python, Javascript, Java],
         "code_tools" : ["PostgreSQL", "Django", "Node.JS"],
         "interests" : ["Frontend Development", "Backend development", "Artificial Intelligence"],
-	"visited countries" : ["Switzerland", "Germany", "Canada", "South Korea", "Spain", "Italy", "Bulgaria", "Portugal", "Netherlands", "France" ],
     },
 }
 ```
