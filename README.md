@@ -2,7 +2,16 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=35&duration=3000&pause=1000&color=73A5DF&random=false&width=435&lines=Hello++There!++++++%F0%9F%91%8B%F0%9F%8F%BE;I'm+Adrian+Garcia+" />
 
-</h1>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack web application developer from <b>California</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
 <h3 align="center">Powered by a relentless passion for programming, making each challenge an opportunity for growth.</h3>
 
 
@@ -14,11 +23,16 @@
 - ⚡ Fun fact **I love running, reading, and learning**
 
 </br>
-
+<br>
 <p align="center">
+	<a href="https://muffy239.github.io/" target="blank">
+  		<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ 	</a>
+
   <a href="https://www.linkedin.com/in/adrian0239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
 </p>
 
 
