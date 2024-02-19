@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muffy239.Muffy239"/>
+
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=35&duration=3000&pause=1000&color=73A5DF&random=false&width=435&lines=Hello++There!++++++%F0%9F%91%8B%F0%9F%8F%BE;I'm+Adrian+Garcia+" />
 
@@ -12,8 +14,8 @@
   </samp>
 </p>
 
-<h3 align="center">Powered by a relentless passion for programming, making each challenge an opportunity for growth.</h3>
 
+<h3 align="center">Powered by a relentless passion for programming, making each challenge an opportunity for growth.</h3>
 
 
 </br>
@@ -39,9 +41,8 @@ Adrian = {
 ```
 
 
-
 </br>
-<br>
+</br>
 <p align="center">
 	<a href="https://muffy239.github.io/" target="_blank">
   		<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -73,8 +74,8 @@ Adrian = {
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<br/>
 
+<br/>
 
 
 <details>
@@ -83,5 +84,7 @@ My journey in programming began with a simple Scratch script during a high schoo
 </details>
 
 <hr/>
+
+
 <p align="left">GitHub Stats </p>
-<a href="http://www.github.com/Muffy239"><img src="https://github-readme-stats.vercel.app/api?username=Muffy239&show_icons=true&hide=contribs&count_private=true&title_color=C8CDC9FF&text_color=73A5DFFF&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muffy239's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Muffy239&show_icons=true&hide=contribs&count_private=true&title_color=C8CDC9FF&text_color=73A5DFFF&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muffy239's GitHub stats"/>
