@@ -33,7 +33,7 @@ Adrian = {
         "code_languages" : [Python, Javascript, Java],
         "code_tools" : ["PostgreSQL", "Django", "Node.JS"],
         "interests" : ["Frontend Development", "Backend development", "Artificial Intelligence"],
-	"Visited Countries" : [Switzerland, Germany, Canada, South Korea, Spain, Italy, Bulgaria, ],
+	"Visited Countries" : [Switzerland, Germany, Canada, South Korea, Spain, Italy, Bulgaria, Portugal, Netherlands, France ],
     },
 }
 ```
