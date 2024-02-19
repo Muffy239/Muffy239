@@ -31,6 +31,7 @@ Adrian = {
         "favorite_movies" : ["End of Watch", "The Secret Life of Walter Mitty"],
         "favorite_sounds" : ["Change - Deftones", "The Scientist - Coldplay"],
 	"visited countries" : ["Switzerland", "Germany", "Canada", "South Korea", "Spain", "Italy", "Bulgaria", "Portugal", "Netherlands", "France" ],
+	"hobbies" : ["Running", "Reading", "Traveling"]
     },
     "professional_info" : {
         "code_languages" : [Python, Javascript, Java],
