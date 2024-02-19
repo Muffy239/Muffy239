@@ -43,7 +43,7 @@ Adrian = {
 </br>
 <br>
 <p align="center">
-	<a href="https://muffy239.github.io/" target="blank">
+	<a href="https://muffy239.github.io/" target="_blank">
   		<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  	</a>
 
