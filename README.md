@@ -31,7 +31,7 @@ Adrian = {
     },
     "professional_info": {
         "code_languages": [Python, Javascript, Java],
-        "code_tools": ["PostgreSQL", "FastAPI", "Django", "Node.JS"],
+        "code_tools": ["PostgreSQL", "Django", "Node.JS"],
         "interests": ["Frontend Development", "Backend development", "Artificial Intelligence"],
     },
 }
