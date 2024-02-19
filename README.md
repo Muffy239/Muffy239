@@ -20,19 +20,20 @@
 
 ```python
 Adrian = {
-    "name": "Adrian Garcia",
-    "age": 26,
-    "pronouns": ["he", "him"],
-    "personal_info": {
-        "favorite_color": "Blue",
-        "favorite_game": "Counter Strike 2",
-        "favorite_movies": ["End of Watch", "The Secret Life of Walter Mitty"],
-        "favorite_sounds": ["Change (In the House of Flies) - Deftones", "The Scientist - Coldplay"],
+    "name" : "Adrian Garcia",
+    "age" : 26,
+    "pronouns" : ["he", "him"],
+    "personal_info" : {
+        "favorite_color" : "Blue",
+        "favorite_game" : "Counter Strike 2",
+        "favorite_movies" : ["End of Watch", "The Secret Life of Walter Mitty"],
+        "favorite_sounds" : ["Change - Deftones", "The Scientist - Coldplay"],
     },
-    "professional_info": {
-        "code_languages": [Python, Javascript, Java],
-        "code_tools": ["PostgreSQL", "Django", "Node.JS"],
-        "interests": ["Frontend Development", "Backend development", "Artificial Intelligence"],
+    "professional_info" : {
+        "code_languages" : [Python, Javascript, Java],
+        "code_tools" : ["PostgreSQL", "Django", "Node.JS"],
+        "interests" : ["Frontend Development", "Backend development", "Artificial Intelligence"],
+	"Visited Countries" : [Switzerland, Germany, Canada, South Korea, Spain, Italy, Bulgaria, ],
     },
 }
 ```
