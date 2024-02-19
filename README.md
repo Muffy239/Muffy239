@@ -87,4 +87,4 @@ My journey in programming began with a simple Scratch script during a high schoo
 
 
 <p align="left">GitHub Stats </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Muffy239&show_icons=true&hide=contribs&count_private=true&title_color=C8CDC9FF&text_color=73A5DFFF&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muffy239's GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=Muffy239&theme=react&card_width=600" alt="GitHub Streak" />
