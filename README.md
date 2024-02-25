@@ -30,7 +30,7 @@ Adrian = {
         "favorite_game" : "Counter-Strike 2",
         "favorite_movies" : ["End of Watch", "The Secret Life of Walter Mitty"],
         "music" : ["Change - Deftones", "The Scientist - Coldplay"],
-	"visited countries" : ["Switzerland", "Germany", "Canada", "South Korea", "Spain", "Italy", "Bulgaria", "Portugal", "Netherlands", "France" ],
+	"visited_countries" : ["Switzerland", "Germany", "Canada", "South Korea", "Spain", "Italy", "Bulgaria", "Portugal", "Netherlands", "France" ],
 	"hobbies" : ["Running", "Reading", "Traveling", "Learning"]
     },
     "professional_info" : {
