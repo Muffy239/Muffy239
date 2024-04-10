@@ -25,7 +25,7 @@
 Adrian = {
     "name" : "Adrian Garcia",
     "age" : 26,
-    "pronouns" : ["he", "him"],
+    "fuel" : ["passion"],
     "personal_info" : {
         "favorite_color" : "Blue",
         "favorite_game" : "Counter-Strike 2",
