@@ -86,7 +86,7 @@ Adrian = {
 
 <details>
 	<summary><h3>👨🏽‍💻 Adrian's Coding Journey:</h3></summary>
-My journey in programming began with a simple Scratch script during a high school class, sparking a deep-seated passion that grew with each project in HTML and CSS. Overcoming countless challenges fueled my determination, leading me from classroom projects to an unconventional path through military service. Post-service, I embraced the opportunity at a programming bootcamp, diving into full-stack development at CodePlatoon, where each day brings new learning. Eager to apply my accumulated knowledge in a professional setting, I am ready to contribute to impactful and innovative software solutions.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My journey in programming began with a simple Scratch script during a high school class, sparking a deep-seated passion that grew with each project in HTML and CSS. Overcoming countless challenges fueled my determination, leading me from classroom projects to an unconventional path through military service. Post-service, I embraced the opportunity at a programming bootcamp, diving into full-stack development at CodePlatoon, where each day brings new learning. Eager to apply my accumulated knowledge in a professional setting, I am ready to contribute to impactful and innovative software solutions.</p>
 </details>
 
 <hr/>
