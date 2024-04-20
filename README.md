@@ -28,7 +28,6 @@ Adrian = {
     "pronouns" : ["he","him"],
     "fuel" : "passion",
     "personal_info" : {
-        "favorite_color" : "Blue",
         "favorite_game" : "Counter-Strike 2",
         "favorite_movies" : ["End of Watch", "The Secret Life of Walter Mitty"],
         "music" : ["Change - Deftones", "The Scientist - Coldplay"],
@@ -37,7 +36,7 @@ Adrian = {
     },
     "professional_info" : {
         "code_languages" : [Python, Javascript, Java],
-        "code_tools" : ["PostgreSQL", "Django", "Node.JS", "Flask"],
+        "code_tools" : ["PostgreSQL", "Django", "Node.JS", "Flask", "Docker", "React", "Cypress", Tailwind CSS"],
         "interests" : ["Frontend Development", "Backend development", "Artificial Intelligence"],
         "experience_with" : ["bash", "Three.js"],
     },
