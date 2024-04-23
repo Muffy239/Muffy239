@@ -36,9 +36,9 @@ Adrian = {
     },
     "professional_info" : {
         "code_languages" : [Python, Javascript, Java],
-        "code_tools" : ["PostgreSQL", "Django", "Node.JS", "Flask", "Docker", "React", "Cypress", "Tailwind CSS"],
-        "interests" : ["Frontend Development", "Backend development", "Artificial Intelligence"],
-        "experience_with" : ["bash", "Three.js"],
+        "code_tools" : ["PostgreSQL", "Django", "Node.JS", "Flask", "Docker", "React", "Cypress", "Tailwind CSS", "Jest"],
+        "interests" : [ "Full Stack development", "Artificial Intelligence"],
+        "experience_with" : ["bash", "Three.js", ],
     },
 }
 ```
